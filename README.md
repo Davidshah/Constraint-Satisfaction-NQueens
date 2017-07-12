@@ -2,4 +2,4 @@ In this exercise you will explore Constraint Satisfaction Problems by implementi
 
 To launch the notebook, run the following command from a terminal with anaconda3 installed and on the application path:
 
-    jupyter notebook Constraint_Satisfaction.ipynb
+    `jupyter notebook Constraint_Satisfaction.ipynb`
